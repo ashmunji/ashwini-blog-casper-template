@@ -24,12 +24,12 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'nimu',
+      description: 'The blog.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
-        label: 'Home',
+        label: '&#x2665;',
         route: 'index'
       }, {
         label: 'Built by Chris Manson',
