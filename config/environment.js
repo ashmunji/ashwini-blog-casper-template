@@ -25,11 +25,11 @@ module.exports = function(environment) {
 
     blog: {
       title: 'nimu',
-      description: 'The blog.',
+      description: 'for everything art.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
-        label: '&#x2665;',
+        label: &#x2665;,
         route: 'index'
       }, {
         label: 'Built by Chris Manson',
