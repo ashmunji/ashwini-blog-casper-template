@@ -29,10 +29,10 @@ module.exports = function(environment) {
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
-        label: &#x2665;,
+        label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'About',
         route: 'page',
         id: 'chris-manson'
       }]
