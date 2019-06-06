@@ -29,12 +29,12 @@ module.exports = function(environment) {
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
-        label: 'Home',
+        label: '\u03A9',
         route: 'index'
       }, {
         label: 'About',
         route: 'page',
-        id: 'chris-manson'
+        id: 'ash-munji'
       }]
     },
 
